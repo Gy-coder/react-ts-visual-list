@@ -1,0 +1,12 @@
+.container {
+  height: 100%;
+  overflow: scroll;
+}
+.container * {
+  box-sizing: border-box;
+}
+.item {
+  border: 1px solid #eee;
+  padding: 6px 10px;
+  cursor: pointer;
+}
